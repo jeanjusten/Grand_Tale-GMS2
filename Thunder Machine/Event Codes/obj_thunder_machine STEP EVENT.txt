@@ -1,0 +1,12 @@
+// Countdown to 0
+timer += 0.004
+timer = clamp(timer,0,1)
+
+// Trigger timer
+if timer >= 1{ // Choose the next value after 4 seconds
+machine += 0.007;} // Add random value to the variable
+
+if machine >= 3 { instance_create_depth(x,y,200,obj_thunder)
+// Reset values and start again
+machine = 0;}
+

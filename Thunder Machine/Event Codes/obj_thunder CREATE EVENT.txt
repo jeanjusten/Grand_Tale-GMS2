@@ -1,0 +1,24 @@
+// Hide Icon
+timer = random_range(70,200);
+image_alpha = 0;
+fade_speed = 0;
+fade_speed = clamp(fade_speed,0,1)
+draw = false;
+fade = true;
+destroy = false;
+
+// Flash width on screen
+bufferx = 800; 
+
+// Get Camera data
+xsstart = camera_get_view_x(view_camera[0]);
+ysstart = camera_get_view_y(view_camera[0]);
+ 
+camerawidth = camera_get_view_width(view_camera[0]);
+cameraheight = camera_get_view_height(view_camera[0]);
+cameraheight = camera_get_view_height(view_camera[0]);
+roomwidth = room_width
+roomheight = room_height
+
+// Choose thunder SFX randomly
+audio = choose(1,2,3)

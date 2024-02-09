@@ -1,0 +1,4 @@
+// Random SFX after the flash 
+	if audio == 1 { audio_play_sound(snd_thunder_1,5,0)}
+	if audio == 2 { audio_play_sound(snd_thunder_2,5,0)}	
+	if audio == 3 { audio_play_sound(snd_thunder_3,5,0)}

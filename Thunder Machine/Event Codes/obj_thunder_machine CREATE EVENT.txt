@@ -1,0 +1,6 @@
+// Hide Icon
+image_alpha = 0;
+timer = 0.9;
+machine = 2;
+
+
