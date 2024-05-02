@@ -2,9 +2,9 @@
 timer -= 0.5
 
 if timer <= 0 {
-draw = true;
+  draw = true;
 if fade {
-fade_speed += 0.10;}}
+  fade_speed += 0.10;}}
 
 
 
