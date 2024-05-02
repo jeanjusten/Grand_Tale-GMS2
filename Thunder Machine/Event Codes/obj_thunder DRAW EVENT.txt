@@ -1,6 +1,6 @@
 // Drawing the flash on screen
 if draw{
-draw_sprite_stretched_ext(spr_fade_in_white,0,0,0,roomwidth,roomheight,-1,fade_speed)}
+	draw_sprite_stretched_ext(spr_fade_in_white,0,0,0,roomwidth,roomheight,-1,fade_speed)}
 	
 if fade_speed >= 1 { 
 	fade = false;
