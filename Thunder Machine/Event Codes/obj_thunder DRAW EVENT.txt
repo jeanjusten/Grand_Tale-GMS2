@@ -13,10 +13,10 @@ if image_alpha = 0 && destroy{
 // Debug Data
 var _active = false;
 if _active = true {
-draw_set_halign(fa_right);
-draw_text(x-5,0,"FADESPD"+string(fade_speed));
-draw_text(x-5,15,"DESTROY"+string(destroy));
-draw_text(x-5,30,"FADE"+string(fade));
-draw_text(x-5,45,"AUDIO"+string(audio));}
+	draw_set_halign(fa_right);
+	draw_text(x-5,0,"FADESPD"+string(fade_speed));
+	draw_text(x-5,15,"DESTROY"+string(destroy));
+	draw_text(x-5,30,"FADE"+string(fade));
+	draw_text(x-5,45,"AUDIO"+string(audio));}
 
 
