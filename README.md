@@ -1,7 +1,7 @@
 <!--Title Image-->
 ![2024-02-0819-52-25-ezgif com-crop](https://github.com/jeanjusten/Grand_Tale-GMS2/assets/156855412/19a89e2d-0d69-4d9c-a744-62c09e0914ca)
 
-# :video_game: Grand Tale - In development
+# :video_game: Grand Tale - 2d Action Platformer (In development)
   <p>
  Grand Tale is a side project of mine, and the reason i started studying programming in 2023. <br>
  I plan it to be a 2d action platformer with some rpg elements.<br>
@@ -10,23 +10,38 @@
   </p>
 
   ## :large_orange_diamond: Table of Content
-[Updates](#large_orange_diamond-updates)  <br>
-[Game State](#large_orange_diamond-game-state) <br>
-[Mechanics](#large_orange_diamond-mechanics)  <br>
+  
 
-<!--Updates-->
-## :large_orange_diamond: Updates
-<p>
-Aside from a lot of particle effects and environmental effects, i finished a mechanic that will do great together with the effect when it's raining: Thunder.
-I developed a thunder machine, that makes the screen flash and triggers the thunder sound. 
-The white flashes on screen happens in a random but controlled time span. 
-</p>
+- [1. Game State](#large_orange_diamond-game-state)
+- [2. Updates](#large_orange_diamond-updates)
+  - [2.1 Latest Update](#pushpin-latest-update)
+  - [2.2 Old Updates](#bookmark_tabs-old-updates)
+- [3. Mechanics](#large_orange_diamond-mechanics)
+  - [3.1 Thunder Machine](#small_red_triangle_down-thunder-machine)
+    - [3.1.1 Implementing](#interrobang-how-to-implement-the-thunder-machine-in-your-project)
+- [4. Planned Features](#large_orange_diamond-planned-features)
+  - [4.1 Riding Mounts](#small_red_triangle_down-riding-mounts)
 
 <!--Game State-->
 ## :large_orange_diamond: Game State
 <p>
 The game is currently in its early stages, with lots of tweakings around the mechanics to make the game polished.<br>
 Besides coding, a lot of pixel art is also being developed in the time being.
+</p>
+
+<!--Updates-->
+## :large_orange_diamond: Updates
+### :pushpin: Latest Update
+<p>
+- 
+</p>
+
+### :bookmark_tabs: Old Updates
+<p>
+- <strong>Feb. 2024</strong> <br>
+Aside from a lot of particle effects and environmental effects, i finished a mechanic that will do great together with the effect when it's raining: Thunder.
+I developed a thunder machine, that makes the screen flash and triggers the thunder sound. 
+The white flashes on screen happens in a random but controlled time span. 
 </p>
 
 <!--Mechanics-->
@@ -71,3 +86,7 @@ The <strong>Thunder Machine</strong> mechanic is very simple, and we'll only nee
   You can play with its values and adjust the machine to better fit your needs.<br>
   Credit is not needed but apreciated. Feel free to message me if you need anything.
 </p>
+
+<!--Planned Features-->
+## :large_orange_diamond: Planned Features
+### :small_red_triangle_down: Riding Mounts
